@@ -6,4 +6,4 @@ Quando o usuário que está logado da um Like ou Dislike em algum outro usuário
 
 ![Tela de Login](/imagens/telaDeLogin.jpeg "Tela de Login")
 
-![Lista de usuários para dar Like ou Dislike](/imagens/telaDeLogin.jpeg "Lista de usuários")
+![Lista de usuários para dar Like ou Dislike](/imagens/listaDeDevs.jpeg "Lista de usuários")
